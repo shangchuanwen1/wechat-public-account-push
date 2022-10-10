@@ -13,7 +13,7 @@ USE_PASSAGE:'push-deer',
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
 
-  PROVINCE: '山东',
+  PROVINCE: '济南',
   CITY: '章丘',
 
   USERS: [
