@@ -11,15 +11,15 @@ const TEMPLATE_CONFIG = [
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
       风向: {{wind_direction.DATA}}
       风级: {{wind_scale.DATA}}
-      {{comprehensive_horoscope.DATA}}
+      {   }
       ---
       今天是我们恋爱的第{{love_day.DATA}}天
       {{birthday_message.DATA}}
       ---
-      {{moment_copyrighting.DATA}}
-      
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
+      
+      {{moment_copyrighting.DATA}}
     `
   },
   {
