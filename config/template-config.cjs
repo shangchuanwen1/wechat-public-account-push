@@ -27,10 +27,6 @@ const TEMPLATE_CONFIG = [
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
       
-      ---
-      
-      {{notice.DATA}}
-      
       {{ganmao.DATA}}
       
       ---
