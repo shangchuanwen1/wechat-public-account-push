@@ -13,8 +13,8 @@ USE_PASSAGE:'push-deer',
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
 
-  PROVINCE: '章丘',
-  CITY: '',
+  PROVINCE: '山东',
+  CITY: '章丘',
 
   USERS: [
     {
@@ -51,7 +51,7 @@ USE_PASSAGE:'push-deer',
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '0003',
+  CALLBACK_TEMPLATE_ID: '0002',
 
   CALLBACK_USERS: [
     {
